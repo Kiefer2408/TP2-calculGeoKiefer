@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: be.ac.umons.MoneyTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.026 s <<< FAILURE! - in be.ac.umons.MoneyTest
+testAdd_Money(be.ac.umons.MoneyTest)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.NullPointerException
+	at be.ac.umons.MoneyTest.testAdd_Money(MoneyTest.java:87)
+
